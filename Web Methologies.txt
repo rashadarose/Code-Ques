@@ -1,0 +1,11 @@
+Web Methologies
+Test Driven Dev is test every unit
+Behavior Driven is just testing is a certain behavior or what you expect to work
+
+agile is for rapid production sprint and stand ups
+waterfall if for overall quality and must work not speedy development
+
+web accessability 
+media queries
+breakpoint for reponsive design 
+508 compliance
